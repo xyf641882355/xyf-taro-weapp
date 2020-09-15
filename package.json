@@ -129,5 +129,5 @@
     "release:lerna": "lerna publish --force-publish=* --exact --skip-temp-tag",
     "test": "lerna run --scope eslint-plugin-taro  --scope @tarojs/transformer-wx test"
   },
-  "version": ""
+  "version": "1.3.26"
 }
